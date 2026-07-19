@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6E0D25&height=200&section=header&text=Hi,%20I'm%20Daniela%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%C2%B7%20Exploring%20Full-Stack%20Development&descAlignY=58&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A1172&height=200&section=header&text=Hi,%20I'm%20Daniela%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%C2%B7%20Exploring%20Full-Stack%20Development&descAlignY=58&descSize=19" width="100%"/>
 
 ## 👩‍💻 About Me
 
@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=djmnzzz&show_icons=true&hide_border=true&title_color=6E0D25&icon_color=0A1172&text_color=333333&bg_color=00000000" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=djmnzzz&hide_border=true&background=00000000&ring=6E0D25&fire=AD1457&currStreakLabel=0A1172" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=djmnzzz&show_icons=true&hide_border=true&theme=tokyonight" height="165"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=djmnzzz&hide_border=true&theme=tokyonight" height="165"/>
 
 ## 🥇 Courses & Certifications
 
